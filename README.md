@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igormorolima
-- 👀 I’m interested in Data and BI Analytics
-- 🌱 I’m currently learning SQL, Python, Power BI
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning R and Python, and acting professionaly with SQL and Power BI
 - 📫 How to reach me: igor_moro@msn.com
 
 <!---
