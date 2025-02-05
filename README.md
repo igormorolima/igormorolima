@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igormorolima
+👋 Hi, I’m @igormorolima
 Welcome to my GitHub! I’m a Sr. Data Analyst with a strong background in Data Science, working in the Transformation Office’s Analytics team on New Business projects. My expertise lies in developing revenue prediction models, automation pipelines, and data-driven solutions that drive business growth.
 
 🚀 What I Do:
