@@ -12,11 +12,11 @@ I'm a Data Professional with experience in Data Science, Machine Learning, and A
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, SQL
-**Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, MLflow
-**Data Engineering:** PySpark, Databricks, dbt, Kedro
-**Cloud & DevOps:** AWS, Azure, Docker, Git, CI/CD
-**Analytics:** Power BI, Tableau, Looker
+* **Languages:** Python, SQL
+* **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, MLflow
+* **Data Engineering:** PySpark, Databricks, dbt, Kedro
+* **Cloud & DevOps:** AWS, Azure, Docker, Git, CI/CD
+* **Analytics:** Power BI, Tableau, Looker
 
 ## 🎯 Current Focus
 
